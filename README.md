@@ -13,7 +13,7 @@ Chrome Extension for Summarizing Long Articles
 
 ##  Screenshot  
 ![SmartBrowse Popup](./screenshot.png)  
-*(Add your own screenshot here — you can take it by pressing `PrtScn` or `Shift+Cmd+4` on Mac and crop the popup)*  
+
 
 ---
 
